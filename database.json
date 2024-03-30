@@ -1,0 +1,74 @@
+{
+    "tickets": [
+        {
+            "title": "Error al cargar la página de inicio",
+            "description": "La página de inicio de Compouradora no se carga correctamente, mostrando un mensaje de error.",
+            "priority": "high",
+            "status": "open",
+            "attachment": ""
+        },
+        {
+            "title": "Problemas de rendimiento en la búsqueda de productos",
+            "description": "La búsqueda de productos en Compouradora está siendo lenta y poco fiable, afectando la experiencia del usuario.",
+            "priority": "medium",
+            "status": "open",
+            "attachment": ""
+        },
+        {
+            "title": "Error al procesar pagos",
+            "description": "Los usuarios reportan errores al intentar procesar pagos en Compouradora, impidiendo completar las transacciones.",
+            "priority": "high",
+            "status": "open",
+            "attachment": ""
+        },
+        {
+            "title": "Imagen incorrecta en la página de producto",
+            "description": "Una imagen incorrecta está siendo mostrada en la página de un producto en Compouradora, lo que puede causar confusión a los usuarios.",
+            "priority": "low",
+            "status": "open",
+            "attachment": ""
+        },
+        {
+            "title": "Fallo en el proceso de registro de usuarios",
+            "description": "El proceso de registro de nuevos usuarios en Compouradora está fallando, impidiendo que los usuarios creen cuentas.",
+            "priority": "high",
+            "status": "open",
+            "attachment": ""
+        },
+        {
+            "title": "Problema con el carrito de compras",
+            "description": "Los usuarios están experimentando problemas al agregar productos al carrito de compras en Compouradora.",
+            "priority": "medium",
+            "status": "open",
+            "attachment": ""
+        },
+        {
+            "title": "Error en el cálculo de precios",
+            "description": "Los precios de los productos en Compouradora están siendo calculados de forma incorrecta, mostrando precios erróneos a los usuarios.",
+            "priority": "high",
+            "status": "open",
+            "attachment": ""
+        },
+        {
+            "title": "Problema de seguridad en la autenticación de usuarios",
+            "description": "Se ha identificado un problema de seguridad en el proceso de autenticación de usuarios en Compouradora.",
+            "priority": "high",
+            "status": "open",
+            "attachment": ""
+        },
+        {
+            "title": "Error al cargar la página de categorías",
+            "description": "La página de categorías en Compouradora no se carga correctamente, mostrando un mensaje de error.",
+            "priority": "medium",
+            "status": "open",
+            "attachment": ""
+        },
+        {
+            "title": "Problema con la disponibilidad de productos",
+            "description": "Los usuarios están viendo productos como disponibles en Compouradora, pero al intentar comprarlos se muestran como fuera de stock.",
+            "priority": "high",
+            "status": "open",
+            "attachment": ""
+        }
+    ]
+}
